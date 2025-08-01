@@ -1,0 +1,10 @@
+D:\DVLD\DVLD_DataAccess\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\DVLD\DVLD_DataAccess\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\DVLD\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+D:\DVLD\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+D:\DVLD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\DVLD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\DVLD\DataAccessLayer\obj\Debug\DVLD_DataAccess.dll
+D:\DVLD\DataAccessLayer\obj\Debug\DVLD_DataAccess.pdb
+D:\DVLD\DataAccessLayer\bin\Debug\DVLD_DataAccess.dll
+D:\DVLD\DataAccessLayer\bin\Debug\DVLD_DataAccess.pdb
